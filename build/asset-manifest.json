@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/wordlegame/static/css/main.a05df57f.css",
+    "main.js": "/wordlegame/static/js/main.8b4d50aa.js",
+    "static/media/OpenSans-Italic-VariableFont_wdth,wght.ttf": "/wordlegame/static/media/OpenSans-Italic-VariableFont_wdth,wght.f72efa639bb45d29e62f.ttf",
+    "static/media/OpenSans-VariableFont_wdth,wght.ttf": "/wordlegame/static/media/OpenSans-VariableFont_wdth,wght.ceb05254cedfa895b512.ttf",
+    "static/media/Montserrat-Italic-VariableFont_wght.ttf": "/wordlegame/static/media/Montserrat-Italic-VariableFont_wght.ef11b720b9a6cfb9a317.ttf",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/wordlegame/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
+    "static/media/wordle-logo.svg": "/wordlegame/static/media/wordle-logo.5ef59492f30fbb7e05deaaaf2468c545.svg",
+    "index.html": "/wordlegame/index.html",
+    "main.a05df57f.css.map": "/wordlegame/static/css/main.a05df57f.css.map",
+    "main.8b4d50aa.js.map": "/wordlegame/static/js/main.8b4d50aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a05df57f.css",
+    "static/js/main.8b4d50aa.js"
+  ]
+}
